@@ -1,0 +1,6 @@
+{
+  "name": "KNA Systems Engineers S.A.S.",
+  "description": "Soluciones integrales en seguridad electrónica, videovigilancia, control de acceso, automatización y sistemas eléctricos en Bogotá D.C. y toda Colombia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
